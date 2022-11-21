@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illya334
+- 👋 Hi, I’m @illya334. I'm from Ukraine.
 - 👀 I am interested in electronics and programming, and I sometimes combine them.
 - 🌱 I’m currently learning ASM, C/C++
 <!--- - 💞️ I’m looking to collaborate on ... --->
